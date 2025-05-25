@@ -37,7 +37,7 @@ label {
 }
 
 .note2 {
-  color: orange;
+  color: blue;
 }
 
 .min {
@@ -51,4 +51,7 @@ label {
 
 #color {
   color: red;
+}
+.color{
+  color:red;
 }
